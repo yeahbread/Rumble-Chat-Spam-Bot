@@ -975,6 +975,10 @@ document.getElementById('attackAllButton').addEventListener('click', async () =>
   }
 });
 
+function updateButtonText(text) {
+  document.getElementById('attackAllButton').textContent = text;
+}
+
 async function startAllAttacks() {
   isAttacking = true;
 
@@ -996,8 +1000,4 @@ function stopAllAttacks() {
   console.log('Stopping All Attacks');
 
   updateButtonText('Attack All');
-}
-
-function updateButtonText(text) {
-  document.getElementById('attackAllButton').textContent = text;
 }
