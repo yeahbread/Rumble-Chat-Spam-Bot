@@ -10,11 +10,11 @@ This project is made as a proof of concept project, it's also only for education
 ## "Install"
 To start this bot, simply:
 - 1️⃣ ! Copy the current source code from [main.js](https://raw.githubusercontent.com/yeahbread/Rumble-Chat-Spam-Bot/main/main.js).
-- 2️⃣ ! Visit [Rumble](https://rumble.com/), use an ALT account, to avoid getting banned, a VPN is also recommended, but not neccesary.
+- 2️⃣ ! Visit [Rumble](https://rumble.com/), log in with ALT account, to avoid getting banned, a VPN is also recommended, but not neccesary.
 - 3️⃣ ! Open your console by pressing F12, you may need to press FN + 12 to get F12.
 - 4️⃣ ! Near  top right, you should see a console tab, go to it, then paste the code
 - 5️⃣ ! Press enter, then the bot menu should be running. From there it's simple, edit the settings so that it says whatever you want it to say.
-
+- 6️⃣ ! BONUS: Since, an alt account is needed, you can use your main phone number to verify the alt account, the phone number transfers over with no issues, so you can always switch back when needed to. Also you can use sites like [TextNow](https://www.textnow.com/) for multiple different numbers
 
 Faster/Alternative 'install' method on [Ego Menu Website](https://yeahbread.github.io/#rumble-bot)
 ## Usage
