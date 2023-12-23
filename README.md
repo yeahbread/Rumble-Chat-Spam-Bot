@@ -9,7 +9,7 @@ This project is made as a proof of concept project, it's also only for education
 
 ## "Install"
 To start this bot, simply:
-- 1️⃣ ! Copy the current source code from [main.js](https://raw.githubusercontent.com/yeahbread/Rumble-Chat-Spam-Bot/main/bot.js).
+- 1️⃣ ! Copy the current source code from [main.js](https://raw.githubusercontent.com/yeahbread/Rumble-Chat-Spam-Bot/main/main.js).
 - 2️⃣ ! Visit [Rumble](https://rumble.com/), use an ALT account, to avoid getting banned, a VPN is also recommended, but not neccesary.
 - 3️⃣ ! Open your console by pressing F12, you may need to press FN + 12 to get F12.
 - 4️⃣ ! Near  top right, you should see a console tab, go to it, then paste the code
